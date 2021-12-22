@@ -177,7 +177,7 @@ main {
   max-width: var(--fixed-width);
 }
 .review {
-  background: hsl(205deg 90% 88%);
+  background: rgb(199, 201, 202);
   padding: 1.5rem 2rem;
   border-radius: var(--radius);
   box-shadow: var(--light-shadow);
